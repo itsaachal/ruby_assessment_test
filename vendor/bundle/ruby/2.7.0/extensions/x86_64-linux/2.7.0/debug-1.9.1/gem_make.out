@@ -1,0 +1,16 @@
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/debug-1.9.1/ext/debug
+/home/protons/.rvm/rubies/ruby-2.7.5/bin/ruby -I /home/protons/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20240217-13488-1eq5e99.rb extconf.rb
+creating Makefile
+
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/debug-1.9.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/debug-1.9.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/debug-1.9.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 debug.so ./.gem.20240217-13488-dtwlc6/debug

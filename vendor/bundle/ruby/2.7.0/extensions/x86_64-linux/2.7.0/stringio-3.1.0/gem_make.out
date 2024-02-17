@@ -1,0 +1,15 @@
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+/home/protons/.rvm/rubies/ruby-2.7.5/bin/ruby -I /home/protons/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20240217-13488-1sbjn62.rb extconf.rb
+creating Makefile
+
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" clean
+
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR="
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/protons/Videos/EMERITUS_TEST/ruby_assessment_test/vendor/bundle/ruby/2.7.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" install
+/usr/bin/install -m 0755 stringio.so ./.gem.20240217-13488-4h7mse
